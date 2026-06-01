@@ -8,9 +8,9 @@ It is mainly a place where I collect desktop backgrounds I like, so I can find t
 
 | | | |
 | --- | --- | --- |
-| ![Blue and orange abstract wallpaper](a_blue_and_orange_background.jpg) | ![City in the rain wallpaper](a_city_in_the_rain.jpeg) | ![Foggy forest wallpaper](a_foggy_forest_with_trees_and_bushes.png) |
-| ![Mountain moon wallpaper](a_moon_over_a_mountain.png) | ![Green bridge forest wallpaper](a_green_bridge_in_the_middle_of_a_forest.jpg) | ![Street at night wallpaper](a_person_standing_on_a_street_at_night.png) |
-| ![Colorful paint swirl wallpaper](a_colorful_swirls_of_paint.jpg) | ![Planet in space wallpaper](a_planet_in_space_with_clouds.jpg) | ![Animated city wallpaper](city.gif) |
+| ![Blue and orange abstract wallpaper](wallpapers/a_blue_and_orange_background.jpg) | ![City in the rain wallpaper](wallpapers/a_city_in_the_rain.jpeg) | ![Foggy forest wallpaper](wallpapers/a_foggy_forest_with_trees_and_bushes.png) |
+| ![Mountain moon wallpaper](wallpapers/a_moon_over_a_mountain.png) | ![Green bridge forest wallpaper](wallpapers/a_green_bridge_in_the_middle_of_a_forest.jpg) | ![Street at night wallpaper](wallpapers/a_person_standing_on_a_street_at_night.png) |
+| ![Colorful paint swirl wallpaper](wallpapers/a_colorful_swirls_of_paint.jpg) | ![Planet in space wallpaper](wallpapers/a_planet_in_space_with_clouds.jpg) | ![Animated city wallpaper](wallpapers/city.gif) |
 
 ## About
 
